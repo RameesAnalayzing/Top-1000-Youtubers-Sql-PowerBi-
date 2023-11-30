@@ -39,7 +39,7 @@ From dbo.[Clean_Top_1000_Youtube_df - youtubers_df]
 Group by Username
 Order by Avg_Subscribers desc
 
---Top Permonace Identitfication--
+--Top Perfomance Identitfication--
 
 Select Top 10
 Username,
